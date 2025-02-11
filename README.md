@@ -4,3 +4,7 @@ The [diamond-square algorithm](https://en.wikipedia.org/wiki/Diamond-square_algo
 
 - **The diamond step:** For each square in the array, set the midpoint of that square to be the average of the four corner points plus a random value.
 - **The square step:** For each diamond in the array, set the midpoint of that diamond to be the average of the four corner points plus a random value.
+
+| <img src="Heightmap.bmp" width="500"> | <img src="Mesh.bmp" width="500"> |
+|:---------:|:----:|
+| Heightmap | Mesh |
